@@ -66,7 +66,7 @@ export function Schedule() {
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-5">
                   {/* iOS */}
                   <a
-                    href="https://apps.apple.com/it/app/ID_APP_IOS"
+                    href="https://apps.apple.com/it/app/id672418135"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center justify-center gap-3 p-4 bg-card border border-border rounded-xl 
@@ -88,7 +88,7 @@ export function Schedule() {
 
                   {/* Google Play */}
                   <a
-                    href="https://play.google.com/store/apps/details?id=ID_APP_ANDROID"
+                    href="https://play.google.com/store/apps/details?id=com.shaggyowl.app"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center justify-center gap-3 p-4 bg-card border border-border rounded-xl 
